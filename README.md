@@ -12,7 +12,7 @@ Source code for various small C++/MATLAB Projects
 #### Plot Example
 ![Example Figure1](/MATLAB/windspeed_plot.png)
 
-[oscilloscope-sim.m](/MATLAB/oscilloscope-sim.m): A simple MATLAB program meant to simulate oscilloscope waveforms at certain frequencies and duty cycles. Will display 9 plots comprising of square and triangle waves.
+[oscilloscope-sim.m](/MATLAB/oscilloscope-sim.m): A simple MATLAB program meant to simulate oscilloscope waveforms at certain frequencies and duty cycles. Will display plots consisting of square and triangle waves.
 
 #### Plot Example
 ![Example Figure2](/MATLAB/oscilloscope_plot.png)
