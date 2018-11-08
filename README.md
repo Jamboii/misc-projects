@@ -19,4 +19,4 @@ Source code for various small C++/MATLAB Projects
 
 ## License
 
-MIT © Larry Pearlstein, Alex Benasutti
+MIT © Alex Benasutti
