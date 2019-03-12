@@ -9,6 +9,8 @@ Source code for various small C++/MATLAB Projects
 
 [citydatabase.cpp](/C++/citydatabase.cpp): A simple C++ local database that stores information about cities using a BST. The user will be allowed to search by either name or coordinates as per the contents of the database.
 
+[RPNC.cpp](/C++/RPNC.cpp): A simple RPNC calculator using a stack.
+
 ## Significant MATLAB Projects
 
 [windspeed.m](/MATLAB/windspeed.m): A MATLAB program which will download and extract weather data from certain weather stations, and plot the changes in windspeed over time as observed by those stations.
