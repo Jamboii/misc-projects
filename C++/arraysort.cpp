@@ -1,11 +1,3 @@
-/*******************************************************
-* Name      : Alex Benasutti
-* Class     : CSC 215-02
-* When      : Fall 2017
-* Professor : Domen
-* 
-* Assignment: Homework #2 - merging and sorting arrays
-********************************************************/
 #include <iostream>
 #include <array>
 using namespace std;
